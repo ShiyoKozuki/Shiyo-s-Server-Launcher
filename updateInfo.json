@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
-  "download": "https://github.com/user-attachments/files/25328939/Shiyo.s.Server.Launcher.zip",
-  "changelog": "Added an updater and to periodic checks for launcher updates then download and install if one is available."
+  "Version": "0.0.4",
+  "Download": "https://github.com/user-attachments/files/25328939/Shiyo.s.Server.Launcher.zip",
+  "Changelog": "Added an updater and to periodic checks for launcher updates then download and install if one is available."
 }
