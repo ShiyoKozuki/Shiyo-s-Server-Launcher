@@ -1,5 +1,0 @@
-{
-  "Version": "0.0.4",
-  "Download": "https://github.com/ShiyoKozuki/Shiyo-s-Server-Launcher/raw/refs/heads/main/Shiyo's%20Server%20Launcher.exe",
-  "Changelog": "Added an updater and to periodic checks for launcher updates then download and install if one is available."
-}
