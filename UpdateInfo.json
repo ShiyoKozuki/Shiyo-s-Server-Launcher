@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.6",
+  "Version": "0.0.7",
   "Download": "https://github.com/ShiyoKozuki/Shiyo-s-Server-Launcher/raw/refs/heads/main/Shiyo's%20Server%20Launcher.exe",
-  "Changelog": "Addons now check for updates if update addons is selected. Periodically checks server status."
+  "Changelog": "Server status now checked every minute. Add warnings for missing git addon / DAT directories"
 }
