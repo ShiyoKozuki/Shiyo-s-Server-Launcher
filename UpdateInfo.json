@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.8",
+  "Version": "0.0.9",
   "Download": "https://github.com/ShiyoKozuki/Shiyo-s-Server-Launcher/raw/refs/heads/main/Shiyo's%20Server%20Launcher.exe",
-  "Changelog": "Add check for update button that will check for DAT/Addon updates and download them."
+  "Changelog": "Added program/taskbar icon."
 }
