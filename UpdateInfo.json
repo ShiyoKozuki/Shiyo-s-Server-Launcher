@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Download": "https://github.com/ShiyoKozuki/Shiyo-s-Server-Launcher/raw/refs/heads/main/Shiyo's%20Server%20Launcher.exe",
-  "Changelog": "Improved quality of icon."
+  "Changelog": "Fixed an update box appearing every 5 minutes even if one already existed."
 }
